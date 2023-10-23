@@ -2216,9 +2216,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@miblanchard/react-native-slider@workspace:.":
+"@mrmlnc/readdir-enhanced@npm:^2.2.1":
+  version: 2.2.1
+  resolution: "@mrmlnc/readdir-enhanced@npm:2.2.1"
+  dependencies:
+    call-me-maybe: ^1.0.1
+    glob-to-regexp: ^0.3.0
+  checksum: d3b82b29368821154ce8e10bef5ccdbfd070d3e9601643c99ea4607e56f3daeaa4e755dd6d2355da20762c695c1b0570543d9f84b48f70c211ec09c4aaada2e1
+  languageName: node
+  linkType: hard
+
+"@narodejesus/react-native-slider@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@miblanchard/react-native-slider@workspace:."
+  resolution: "@narodejesus/react-native-slider@workspace:."
   dependencies:
     "@babel/core": 7.15.5
     "@react-native-community/eslint-config": 3.0.1
@@ -2240,16 +2250,6 @@ __metadata:
     react-native: ">=0.59"
   languageName: unknown
   linkType: soft
-
-"@mrmlnc/readdir-enhanced@npm:^2.2.1":
-  version: 2.2.1
-  resolution: "@mrmlnc/readdir-enhanced@npm:2.2.1"
-  dependencies:
-    call-me-maybe: ^1.0.1
-    glob-to-regexp: ^0.3.0
-  checksum: d3b82b29368821154ce8e10bef5ccdbfd070d3e9601643c99ea4607e56f3daeaa4e755dd6d2355da20762c695c1b0570543d9f84b48f70c211ec09c4aaada2e1
-  languageName: node
-  linkType: hard
 
 "@nodelib/fs.scandir@npm:2.1.5":
   version: 2.1.5

@@ -1,7 +1,7 @@
 {
-    "name": "@miblanchard/react-native-slider",
-    "version": "2.4.0",
-    "description": "A pure JavaScript <Slider /> component for react-native",
+    "name": "@narodejesus/react-native-slider",
+    "version": "2.4.1",
+    "description": "A pure JavaScript <Slider /> component for react-native formed from @miblanchard/react-native-slider",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
